@@ -2,4 +2,4 @@
 
 📫 微信公众号: 有点技术
 
-https://github-readme-stats.vercel.app/api?username=du2016
+![](https://github-readme-stats.vercel.app/api?username=du2016)
